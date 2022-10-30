@@ -1,0 +1,13 @@
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for the Apache Geronimo distribution.    ==
+=========================================================================
+
+=========================================================================
+==  UVM library SyoSil ApS Notice                                      ==
+=========================================================================
+
+All of the UVM library were developed by SyoSil ApS.
+
+Copyright (c) 2022 SyoSil ApS
+All rights reserved.
